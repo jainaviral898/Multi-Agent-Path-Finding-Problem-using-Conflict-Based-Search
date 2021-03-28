@@ -13,3 +13,10 @@ Use the input format file to give the inputs, fill in the stops made by the robo
 The obstacles are to be included in the given format. 
 
 **Note: Do not change the data format for obstacles input.** 
+
+## Team Details
+
+Aryan Saxena - 18HS20045
+Kamaka Prabhu Chandra - 16EE35020
+Katroth Vishal - 16CE10023
+Ajay Kummar - 19ME10072
