@@ -17,6 +17,9 @@ The obstacles are to be included in the given format.
 ## Team Details
 
 Aryan Saxena - 18HS20045
+
 Kamaka Prabhu Chandra - 16EE35020
+
 Katroth Vishal - 16CE10023
+
 Ajay Kummar - 19ME10072
