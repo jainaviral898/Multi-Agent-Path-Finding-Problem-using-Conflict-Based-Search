@@ -22,4 +22,4 @@ Kamaka Prabhu Chandra - 16EE35020
 
 Katroth Vishal - 16CE10023
 
-Ajay Kummar - 19ME10072
+Ajay Kumar - 19ME10072
