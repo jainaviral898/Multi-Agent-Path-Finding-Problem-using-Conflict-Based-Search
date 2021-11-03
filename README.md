@@ -9,6 +9,8 @@ The problem is coded by giving the input for the starting point and the end dest
 
 The path of the robots in which the cell are in normal state, only one robot can exist in that cell. We develop an algorithm to get the tassks done in the minimum time possible. 
 
+![image](https://user-images.githubusercontent.com/50842568/140016269-78703773-f00a-44aa-b2d2-ec59d632679a.png)
+
 
 ## Input Format
 
@@ -17,6 +19,12 @@ Use the input format file to give the inputs, fill in the stops made by the robo
 The obstacles are to be included in the given format. 
 
 **Note: Do not change the data format for obstacles input.** 
+
+# References
+
+1. MULTI-AGENT PATH PLANNING OF ROBOTIC SWARMS IN AGRICULTURAL FIELDS (N. Botteghi, A. Kamilaris,  L. Sinai, B. Sirmacek)
+2. Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search Jiaoyang Li , Ariel Felner, Eli Boyarski , Hang Ma and Sven Koenig.
+
 
 ## Team Details
 
